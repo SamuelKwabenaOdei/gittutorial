@@ -2,3 +2,7 @@ This is a redemption code
 This is a new line
 
 I love the hustle
+
+This is another change
+
+Testing visual code staging and commit
